@@ -10,6 +10,7 @@ To get som ideas on SAHI look at https://github.com/obss/sahi/blob/main/README.m
 
 (download the models like yolo*.pt and a data file *.mp4)
 
+```text
 ├── 14691540-uhd_3840_2160_24fps.mp4
 ├── coco.names
 ├── drone_object_detection.egg-info
@@ -38,6 +39,7 @@ To get som ideas on SAHI look at https://github.com/obss/sahi/blob/main/README.m
 └── yolov8m.pt
 
 6 directories, 21 files
+```
 
 ## Requirements
 
